@@ -1,1 +1,3 @@
-import './sass/main.scss';
+// import './menu.json'
+import './js/getArray.js'
+import './js/switchThemes.js'
